@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://willd.micro.blog/2022/10/26/lost-is-not.html",
+				
+				"content_html": "<blockquote>\n<p>Lost is not the same thing as lacking direction.</p>\n</blockquote>\n",
+				"content_text": "> Lost is not the same thing as lacking direction.\n",
+				"date_published": "2022-10-26T14:41:53-05:00",
+				"url": "https://www.willdearman.com/2022/10/26/lost-is-not.html"
+			},
+			{
+				"id": "http://willd.micro.blog/2022/10/22/im-in-the.html",
+				
+				"content_html": "<p>I’m in the backyard browsing the bird app, and the wifi is just weak enough that most the images don’t load… which is really nice actually.</p>\n",
+				"content_text": "I’m in the backyard browsing the bird app, and the wifi is just weak enough that most the images don’t load… which is really nice actually. \n",
+				"date_published": "2022-10-22T13:40:12-05:00",
+				"url": "https://www.willdearman.com/2022/10/22/im-in-the.html"
+			},
+			{
 				"id": "http://willd.micro.blog/2022/10/19/the-new-fullresolution.html",
 				
 				"content_html": "<p>The new full-resolution Pillars of Creation image from the Webb telescope leaves me in awe <a href=\"https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM\">webbtelescope.org/contents/&hellip;</a></p>\n",
@@ -51,7 +67,7 @@
 			{
 				"id": "http://willd.micro.blog/2022/10/06/tweet-userwtd-id.html",
 				
-				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Testing something. Please disregard.</p>&mdash; ⌜will dearman⌟ data|human (@wtd) <a href=\"https://twitter.com/wtd/status/1578151069083127809?ref_src=twsrc%5Etfw\">October 6, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "\n",
 				"content_text": "{{< tweet user=\"wtd\" id=\"1578151069083127809\" >}}\n",
 				"date_published": "2022-10-06T17:36:50-05:00",
 				"url": "https://www.willdearman.com/2022/10/06/tweet-userwtd-id.html",
